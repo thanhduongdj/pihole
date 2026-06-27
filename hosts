@@ -38,4 +38,5 @@ ff02::3 ip6-allhosts
 
 # https://vnexpress.net/
 # [criteo.com]
-cat.sg1.as.criteo.com
+0.0.0.0 cat.sg1.as.criteo.com
+0.0.0.0 c.bannerflow.net
