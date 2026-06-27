@@ -1,14 +1,14 @@
-# Title: StevenBlack/hosts
+# Title: pihole/hosts
 #
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 26 June 2026 14:22:07 (UTC)
+# Date: 27 June 2026 22:12:07 (GMT+7)
 # Number of unique domains: 83,808
 #
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/thanhduongdj/pihole/master/hosts
+# Project home page: https://github.com/thanhduongdj/pihole
+# Project releases: https://github.com/thanhduongdj/pihole/releases
 #
 # ===============================================================
 
@@ -31,10 +31,11 @@ ff02::3 ip6-allhosts
 
 
 # End of custom host records.
-# Start StevenBlack
+# Start pihole
 
 #=====================================
-# Title: Hosts contributed by Steven Black
-# http://stevenblack.com
+# Title: Hosts contributed by pihole
 
-0.0.0.0 ad-assets.futurecdn.net
+# https://vnexpress.net/
+# [criteo.com]
+cat.sg1.as.criteo.com
